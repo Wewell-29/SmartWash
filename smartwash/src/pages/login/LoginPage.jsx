@@ -11,7 +11,7 @@ function LoginPage() {
         <form className="login-form">
           <input type="email" placeholder="Email" required />
           <input type="password" placeholder="Password" required />
-          <button type="submit">Log In</button>
+          <button Link to="/sales" type="submit">Log In</button>
         </form>
       </div>
     </div>
